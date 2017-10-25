@@ -433,3 +433,24 @@ h6,
 #msg-box8-k p {
   color: #fff;
 }
+
+
+#header1-m .mbr-section-title {
+  text-align: center;
+  color: #1f2322;
+  font-size: 100px;
+  font-family: 'Oxygen', sans-serif;
+}
+#header1-m .mbr-section-title SPAN {
+  font-family: 'Oxygen', sans-serif;
+}
+#features1-o .striped .mbr-cards-col:nth-child(2n+1) {
+  background-color: #ffffff;
+}
+#features1-s .striped .mbr-cards-col:nth-child(2n+1) {
+  background-color: #2e2e2e;
+}
+#msg-box8-t .mbr-section-title,
+#msg-box8-t p {
+  color: #fff;
+}
