@@ -1,10 +1,7 @@
-@import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Lato:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
-
-
 
 
 
@@ -416,15 +413,6 @@ h6,
 .scrollToTop_wraper {
   opacity: 0 !important;
 }
-#header1-0 .mbr-section-title {
-  text-align: center;
-  color: #1f2322;
-  font-size: 100px;
-  font-family: 'Oxygen', sans-serif;
-}
-#header1-0 .mbr-section-title SPAN {
-  font-family: 'Oxygen', sans-serif;
-}
 #features1-9 .striped .mbr-cards-col:nth-child(2n+1) {
   background-color: #ffffff;
 }
@@ -440,24 +428,7 @@ h6,
   font-family: 'Lato', sans-serif;
   font-size: 13px;
 }
-
-
-#header1-m .mbr-section-title {
-  text-align: center;
-  color: #1f2322;
-  font-size: 100px;
-  font-family: 'Oxygen', sans-serif;
-}
-#header1-m .mbr-section-title SPAN {
-  font-family: 'Oxygen', sans-serif;
-}
-#features1-o .striped .mbr-cards-col:nth-child(2n+1) {
-  background-color: #ffffff;
-}
-#features1-s .striped .mbr-cards-col:nth-child(2n+1) {
-  background-color: #2e2e2e;
-}
-#msg-box8-t .mbr-section-title,
-#msg-box8-t p {
+#social-buttons4-1s .mbr-section-title,
+#social-buttons4-1s .btn-social {
   color: #fff;
 }
