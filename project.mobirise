@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-10-02_1457",
-    "currentPage": "index.html",
+    "currentPage": "page3.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -1206,14 +1206,6 @@
           "_anchor": "gallery4-1x"
         }
       ]
-    },
-    "page4.html": {
-      "settings": {
-        "meta_descr": "Web Site Creator Description",
-        "title": "Moving Image&nbsp;",
-        "order": 1
-      },
-      "components": []
     }
   }
 }
