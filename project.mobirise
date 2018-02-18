@@ -263,12 +263,12 @@
             "filter": false,
             "images": [
               {
-                "tags": "Responsive",
+                "tags": "Animated",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/202-1000x750.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/202-1000x750-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-10-1000x667.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-10-1000x667-800x533.jpg",
                 "alt": "",
                 "caption": "Type caption here",
                 "active": false
@@ -712,7 +712,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\" aria-expanded=\"false\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://estherwille.github.io/online/page2.html\" target=\"_blank\">ANALOOG&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://estherwille.github.io/online/page3.html\" target=\"_blank\">PORTRETTEN<br></a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\" aria-expanded=\"false\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://estherwille.github.io/online/page2.html\" target=\"_blank\">ANALOOG&nbsp;</a></li>",
           "logo": {
             "image": {
               "src": "@THEME_PATH@/components/_images/logo.png",
