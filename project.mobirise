@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "ESTHERWILLE",
-    "currentPage": "index.html",
+    "currentPage": "page2.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -28,7 +28,7 @@
       ]
     },
     "versionFirst": "4.3.2",
-    "uniqCompNum": 88,
+    "uniqCompNum": 91,
     "versionPublish": "4.3.2",
     "favicon": "",
     "noImageResize": "true",
@@ -756,7 +756,7 @@
             "paddingBottom": 0,
             "filterBgColor": false,
             "bgColor": "#000000",
-            "showText": false,
+            "showText": true,
             "filter": false,
             "images": [
               {
@@ -767,7 +767,7 @@
                 "image": "@PROJECT_PATH@/assets/images/31.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/31-636x1000.jpg",
                 "alt": "",
-                "caption": "Type caption here",
+                "caption": "Analoog 10x15 Cm",
                 "active": false
               },
               {
@@ -778,7 +778,7 @@
                 "image": "@PROJECT_PATH@/assets/images/61.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/61-800x532.jpg",
                 "alt": "",
-                "caption": "Type caption here",
+                "caption": "Analoog 10x15 Cm",
                 "active": false
               },
               {
@@ -789,7 +789,7 @@
                 "image": "@PROJECT_PATH@/assets/images/70.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/70-800x513.jpg",
                 "alt": "",
-                "caption": "Type caption here",
+                "caption": "Analoog 10x15 Cm",
                 "active": false
               },
               {
@@ -800,7 +800,7 @@
                 "image": "@PROJECT_PATH@/assets/images/114.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/114-695x1000.jpg",
                 "alt": "",
-                "caption": "Type caption here",
+                "caption": "Analoog 10x15 Cm",
                 "active": false
               },
               {
@@ -811,7 +811,7 @@
                 "image": "@PROJECT_PATH@/assets/images/72.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/72-800x528.jpg",
                 "alt": "",
-                "caption": "Type caption here",
+                "caption": "Analoog 10x15 Cm",
                 "active": false
               },
               {
@@ -822,7 +822,7 @@
                 "image": "@PROJECT_PATH@/assets/images/113.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/113-670x1000.jpg",
                 "alt": "",
-                "caption": "Type caption here",
+                "caption": "Analoog 10x15 Cm",
                 "active": false
               },
               {
@@ -833,7 +833,7 @@
                 "image": "@PROJECT_PATH@/assets/images/65.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/65-800x507.jpg",
                 "alt": "",
-                "caption": "Type caption here",
+                "caption": "Analoog 10x15 Cm",
                 "active": false
               },
               {
@@ -844,7 +844,7 @@
                 "image": "@PROJECT_PATH@/assets/images/85.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/85-671x1000.jpg",
                 "alt": "",
-                "caption": "Type caption here",
+                "caption": "Analoog 10x15 Cm",
                 "active": false
               },
               {
@@ -855,7 +855,7 @@
                 "image": "@PROJECT_PATH@/assets/images/139.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/139-800x524.jpg",
                 "alt": "",
-                "caption": "Type caption here",
+                "caption": "Analoog 10x15 Cm",
                 "active": true
               },
               {
@@ -866,7 +866,7 @@
                 "image": "@PROJECT_PATH@/assets/images/68.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/68-800x524.jpg",
                 "alt": "",
-                "caption": "Type caption here",
+                "caption": "Analoog 10x15 Cm",
                 "active": false
               }
             ]
@@ -889,7 +889,7 @@
             "paddingBottom": "1",
             "filterBgColor": false,
             "bgColor": "#000000",
-            "showText": false,
+            "showText": true,
             "filter": false,
             "images": [
               {
@@ -900,7 +900,7 @@
                 "image": "@PROJECT_PATH@/assets/images/7-analoog-2.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/7-analoog-2-800x529.jpg",
                 "alt": "",
-                "caption": "Type caption here",
+                "caption": "Analoog 10x15 Cm",
                 "active": false
               },
               {
@@ -911,7 +911,7 @@
                 "image": "@PROJECT_PATH@/assets/images/20-analoog-2.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/20-analoog-2-749x1125.jpg",
                 "alt": "",
-                "caption": "Type caption here",
+                "caption": "Analoog 10x15 Cm",
                 "active": false
               },
               {
@@ -922,7 +922,7 @@
                 "image": "@PROJECT_PATH@/assets/images/5analoog-2.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/5analoog-2-800x525.jpg",
                 "alt": "",
-                "caption": "Type caption here",
+                "caption": "Analoog 10x15 Cm",
                 "active": false
               },
               {
@@ -933,7 +933,7 @@
                 "image": "@PROJECT_PATH@/assets/images/10analoog-2.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/10analoog-2-800x493.jpg",
                 "alt": "",
-                "caption": "Type caption here",
+                "caption": "Analoog 10x15 Cm",
                 "active": false
               },
               {
@@ -944,7 +944,7 @@
                 "image": "@PROJECT_PATH@/assets/images/32-2.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/32-2-747x1119.jpg",
                 "alt": "",
-                "caption": "Type caption here",
+                "caption": "Analoog 10x15 Cm",
                 "active": false
               },
               {
@@ -955,7 +955,7 @@
                 "image": "@PROJECT_PATH@/assets/images/8-analoog-2.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/8-analoog-2-800x512.jpg",
                 "alt": "",
-                "caption": "Type caption here",
+                "caption": "Analoog 10x15 Cm",
                 "active": false
               },
               {
@@ -977,7 +977,7 @@
                 "image": "@PROJECT_PATH@/assets/images/25-anaaloog-2.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/25-anaaloog-2-800x386.jpg",
                 "alt": "",
-                "caption": "Type caption here",
+                "caption": "Analoog 10x15 Cm",
                 "active": false
               },
               {
@@ -988,7 +988,7 @@
                 "image": "@PROJECT_PATH@/assets/images/43-2.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/43-2-751x1152.jpg",
                 "alt": "",
-                "caption": "Type caption here",
+                "caption": "Analoog 10x15 Cm",
                 "active": true
               }
             ]
@@ -1011,7 +1011,7 @@
             "paddingBottom": "4",
             "filterBgColor": false,
             "bgColor": "#000000",
-            "showText": false,
+            "showText": true,
             "filter": false,
             "images": [
               {
@@ -1022,7 +1022,7 @@
                 "image": "@PROJECT_PATH@/assets/images/45-2.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/45-2-800x525.jpg",
                 "alt": "",
-                "caption": "Type caption here",
+                "caption": "Analoog 10x15 Cm",
                 "active": false
               },
               {
@@ -1033,7 +1033,7 @@
                 "image": "@PROJECT_PATH@/assets/images/39-2.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/39-2-756x1151.jpg",
                 "alt": "",
-                "caption": "Type caption here",
+                "caption": "Analoog 10x15 Cm",
                 "active": false
               },
               {
@@ -1044,7 +1044,7 @@
                 "image": "@PROJECT_PATH@/assets/images/15-analoog-2.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/15-analoog-2-740x1107.jpg",
                 "alt": "",
-                "caption": "Type caption here",
+                "caption": "Analoog 10x15 Cm",
                 "active": false
               },
               {
@@ -1055,7 +1055,7 @@
                 "image": "@PROJECT_PATH@/assets/images/18-analoog-2x-2.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/18-analoog-2x-2-800x503.jpg",
                 "alt": "",
-                "caption": "Type caption here",
+                "caption": "Analoog 10x15 Cm",
                 "active": false
               },
               {
@@ -1066,7 +1066,7 @@
                 "image": "@PROJECT_PATH@/assets/images/4analoog-.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/4analoog-800x520.jpg",
                 "alt": "",
-                "caption": "Type caption here",
+                "caption": "Analoog 10x15 Cm",
                 "active": false
               },
               {
@@ -1077,7 +1077,7 @@
                 "image": "@PROJECT_PATH@/assets/images/16-2.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/16-2-733x1138.jpg",
                 "alt": "",
-                "caption": "Type caption here",
+                "caption": "Analoog 10x15 Cm&nbsp;",
                 "active": false
               },
               {
@@ -1088,7 +1088,7 @@
                 "image": "@PROJECT_PATH@/assets/images/27-anaaloog-2.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/27-anaaloog-2-738x1121.jpg",
                 "alt": "",
-                "caption": "Type caption here",
+                "caption": "Analoog 10x15 Cm",
                 "active": true
               },
               {
@@ -1099,7 +1099,7 @@
                 "image": "@PROJECT_PATH@/assets/images/2-analoog-.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/2-analoog-800x519.jpg",
                 "alt": "",
-                "caption": "Type caption here",
+                "caption": "Analoog 10x15 Cm&nbsp;<br>",
                 "active": false
               }
             ]
@@ -1111,6 +1111,69 @@
           "allItem": "All",
           "_name": "gallery4",
           "_anchor": "gallery4-1z"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": "57",
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/5analoog-2.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "linkInNewWindow": false,
+              "name": "hearth",
+              "family": "MobiriseIcons",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "<br>\"WHEN PEOPLE ASK ME &nbsp;WHAT EQUIMENT<br> I USE&nbsp;<br>I TELL THEM MY EYES\"",
+          "text": "- ANSEL ADAMS",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-2i",
+          "_styles": {
+            "H3": {
+              "color": "#ffffff"
+            },
+            "P": {
+              "color": "#ffffff"
+            }
+          }
         }
       ]
     },
