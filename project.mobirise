@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "ESTHERWILLE",
-    "currentPage": "page3.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -1118,7 +1118,7 @@
             "showText": true,
             "showButtons": false,
             "inverse": false,
-            "imageSize": "57",
+            "imageSize": "25",
             "paddingTop": "2",
             "paddingBottom": "1",
             "bgImageRadio": false,
@@ -1136,9 +1136,8 @@
           },
           "media": {
             "image": {
-              "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/5analoog-2.jpg",
+              "src": "@PROJECT_PATH@/assets/images/scan-19.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -1155,7 +1154,8 @@
               "name": "hearth",
               "family": "MobiriseIcons",
               "link": "",
-              "size": 0
+              "size": 250,
+              "active": true
             }
           },
           "title": "<br>\"WHEN PEOPLE ASK ME &nbsp;WHAT EQUIMENT<br> I USE&nbsp;<br>I TELL THEM MY EYES\"",
@@ -1205,7 +1205,7 @@
                 "image": "@PROJECT_PATH@/assets/images/dsc-410.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/dsc-410-800x1200.jpg",
                 "alt": "",
-                "caption": "\"Bubble gum boy\"<br>Analoog 10x15 Cm",
+                "caption": "\"Bubble gum boy\"<br>",
                 "active": false
               },
               {
@@ -1283,18 +1283,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/dsc-23-800x1200.jpg",
                 "alt": "",
                 "caption": "\"sippin\"",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/analoog-mama-.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/analoog-mama-682x1022.jpg",
-                "alt": "",
-                "caption": "\"MOM I\"<br>Analoog 10x15 Cm<br>",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Creative",
@@ -1338,7 +1327,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/oma-800x1200.jpg",
                 "alt": "",
                 "caption": "&nbsp;\"GRANDMA\"",
-                "active": true
+                "active": false
               }
             ]
           },
