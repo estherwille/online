@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "ESTHERWILLE",
-    "currentPage": "page2.html",
+    "currentPage": "page3.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -1189,25 +1189,14 @@
           "_params": {
             "showBullets": false,
             "fullWidth": true,
-            "spacing": "2",
+            "spacing": "3",
             "paddingTop": "4",
             "paddingBottom": "4",
             "filterBgColor": false,
-            "bgColor": "#cccccc",
-            "showText": false,
+            "bgColor": "#c1c1c1",
+            "showText": true,
             "filter": false,
             "images": [
-              {
-                "tags": "Awesome",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/dsc-178.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc-178-800x533.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false
-              },
               {
                 "tags": "Responsive",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
@@ -1216,7 +1205,7 @@
                 "image": "@PROJECT_PATH@/assets/images/dsc-410.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/dsc-410-800x1200.jpg",
                 "alt": "",
-                "caption": "Type caption here",
+                "caption": "\"Bubble gum boy\"<br>Analoog 10x15 Cm",
                 "active": false
               },
               {
@@ -1227,7 +1216,18 @@
                 "image": "@PROJECT_PATH@/assets/images/dsc-130.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/dsc-130-800x1200.jpg",
                 "alt": "",
-                "caption": "Type caption here",
+                "caption": "<p>UN&nbsp;TITELD</p>",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/dsc-178.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-178-800x533.jpg",
+                "alt": "",
+                "caption": "\"Poster Boy I\"",
                 "active": false
               },
               {
@@ -1238,7 +1238,7 @@
                 "image": "@PROJECT_PATH@/assets/images/shoot-charlotte-.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/shoot-charlotte-800x533.jpg",
                 "alt": "",
-                "caption": "Type caption here",
+                "caption": "\" theday at a fashion shoot\"",
                 "active": false
               },
               {
@@ -1249,7 +1249,7 @@
                 "image": "@PROJECT_PATH@/assets/images/dsc-123.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/dsc-123-800x1200.jpg",
                 "alt": "",
-                "caption": "Type caption here",
+                "caption": "UN TITELD&nbsp;",
                 "active": false
               },
               {
@@ -1260,7 +1260,7 @@
                 "image": "@PROJECT_PATH@/assets/images/dsc-171.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/dsc-171-800x1059.jpg",
                 "alt": "",
-                "caption": "Type caption here",
+                "caption": "UN TITELD&nbsp;",
                 "active": false
               },
               {
@@ -1271,7 +1271,7 @@
                 "image": "@PROJECT_PATH@/assets/images/micha-black-and-white-2.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/micha-black-and-white-2-800x533.jpg",
                 "alt": "",
-                "caption": "Type caption here",
+                "caption": "\"Girl on the train\"<br>",
                 "active": false
               },
               {
@@ -1282,7 +1282,18 @@
                 "image": "@PROJECT_PATH@/assets/images/dsc-23.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/dsc-23-800x1200.jpg",
                 "alt": "",
-                "caption": "Type caption here",
+                "caption": "\"sippin\"",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/analoog-mama-.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/analoog-mama-682x1022.jpg",
+                "alt": "",
+                "caption": "\"MOM I\"<br>Analoog 10x15 Cm<br>",
                 "active": false
               },
               {
@@ -1293,7 +1304,7 @@
                 "image": "@PROJECT_PATH@/assets/images/dsc-161.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/dsc-161-799x974.jpg",
                 "alt": "",
-                "caption": "Type caption here",
+                "caption": "\"MOM II\"",
                 "active": false
               },
               {
@@ -1304,8 +1315,8 @@
                 "image": "@PROJECT_PATH@/assets/images/dsc-33.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/dsc-33-800x1037.jpg",
                 "alt": "",
-                "caption": "Type caption here",
-                "active": true
+                "caption": "\"Maybe?\"",
+                "active": false
               },
               {
                 "tags": "Creative",
@@ -1315,8 +1326,19 @@
                 "image": "@PROJECT_PATH@/assets/images/dsc-181.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/dsc-181-800x876.jpg",
                 "alt": "",
-                "caption": "Type caption here",
+                "caption": "\"Poster Boy II\"",
                 "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/oma-.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/oma-800x1200.jpg",
+                "alt": "",
+                "caption": "&nbsp;\"GRANDMA\"",
+                "active": true
               }
             ]
           },
