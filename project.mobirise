@@ -471,8 +471,8 @@
         },
         {
           "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "0",
+            "paddingTop": "4",
+            "paddingBottom": "4",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -482,8 +482,8 @@
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contact us</a>",
-          "text1": "<br><strong><br></strong><br><br><br><br>\n<strong>Contacts</strong><br>\nEmail: estherwille10@gmail.com<br><br>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">CONTACT ME&nbsp;<br></a>",
+          "text1": "<br><strong><br></strong><br><br><br><br>\n<strong>CONTACT</strong><br>\nEmail: estherwille10@gmail.com<br><br>",
           "text2": "",
           "form": {
             "title": "MESSAGE",
@@ -500,7 +500,7 @@
               "email": {
                 "visible": true,
                 "title": "Email",
-                "customTitle": "Email*"
+                "customTitle": "EMAIL"
               },
               "phone": {
                 "visible": false,
@@ -509,7 +509,7 @@
               },
               "message": {
                 "title": "Message",
-                "customTitle": "Message"
+                "customTitle": "MESSAGE "
               }
             }
           },
@@ -517,7 +517,22 @@
             "Theme"
           ],
           "_name": "contacts4",
-          "_anchor": "contacts4-2u"
+          "_anchor": "contacts4-2u",
+          "_styles": {
+            "P": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            },
+            "STRONG": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "color": "#ffffff"
+            },
+            ".btn": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            }
+          }
         }
       ]
     },

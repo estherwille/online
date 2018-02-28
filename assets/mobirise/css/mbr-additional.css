@@ -11,6 +11,9 @@
 
 
 
+
+
+
 body,
 input,
 textarea,
@@ -514,6 +517,16 @@ h6,
 #msg-box8-2t .mbr-section-title,
 #msg-box8-2t p {
   color: #fff;
+}
+#contacts4-2u P {
+  font-family: 'Open Sans', sans-serif;
+}
+#contacts4-2u STRONG {
+  font-family: 'Open Sans', sans-serif;
+  color: #ffffff;
+}
+#contacts4-2u .btn {
+  font-family: 'Open Sans', sans-serif;
 }
 #msg-box5-2i H3 {
   color: #ffffff;
