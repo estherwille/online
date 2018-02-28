@@ -489,6 +489,10 @@ h6,
 #menu-2c .dropdown-item[aria-expanded="true"] {
   color: #ffffff!important;
 }
+#msg-box8-2n .mbr-section-title,
+#msg-box8-2n p {
+  color: #fff;
+}
 #msg-box5-2i H3 {
   color: #ffffff;
 }
