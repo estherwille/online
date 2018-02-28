@@ -9,6 +9,8 @@
 
 
 
+
+
 body,
 input,
 textarea,
@@ -497,6 +499,16 @@ h6,
 }
 #msg-box8-2n .mbr-section-title,
 #msg-box8-2n p {
+  color: #fff;
+}
+#header2-2q .mbr-section-text {
+  font-family: 'Open Sans', sans-serif;
+}
+#header2-2q .btn {
+  font-family: 'Open Sans', sans-serif;
+}
+#msg-box8-2r .mbr-section-title,
+#msg-box8-2r p {
   color: #fff;
 }
 #msg-box5-2i H3 {
