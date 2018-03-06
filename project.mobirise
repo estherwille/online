@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "ESTHERWILLE",
-    "currentPage": "page4.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -513,7 +513,7 @@
           },
           "title": "",
           "text": "DIGITAAL . &nbsp;&nbsp;<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">series</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://estherwille.github.io/online/page4.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">series</a>",
           "_tags": [
             "Theme"
           ],
