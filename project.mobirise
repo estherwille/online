@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "ESTHERWILLE",
-    "currentPage": "page4.html",
+    "currentPage": "page2.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -30,7 +30,7 @@
       ]
     },
     "versionFirst": "4.3.2",
-    "uniqCompNum": 125,
+    "uniqCompNum": 127,
     "versionPublish": "4.3.2",
     "favicon": "@PROJECT_PATH@/assets/images/24-anaaloog-.jpg",
     "noImageResize": "true",
@@ -629,6 +629,40 @@
       },
       "components": [
         {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": "5",
+            "paddingBottom": "5",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/44-2.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "ANALOOG",
+          "text": "<b><i>Dagdagenlijkse leven.</i></b>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-3i"
+        },
+        {
           "_inherit": "gallery1",
           "_params": {
             "showBullets": false,
@@ -1040,7 +1074,7 @@
               "active": true
             }
           },
-          "title": "<br>\"WHEN PEOPLE ASK ME &nbsp;WHAT EQUIMENT I USE&nbsp;<br>I TELL THEM MY EYES\"",
+          "title": "<br>\"WHEN PEOPLE ASK ME &nbsp;WHAT EQUIPMENT I USE&nbsp;<br>I TELL THEM MY EYES\"",
           "text": "- ANSEL ADAMS",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
