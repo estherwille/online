@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "ESTHERWILLE",
-    "currentPage": "index.html",
+    "currentPage": "page3.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -772,7 +772,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/139-800x524.jpg",
                 "alt": "",
                 "caption": "Analoog 10x15 Cm",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Animated",
@@ -784,6 +784,17 @@
                 "alt": "",
                 "caption": "Analoog 10x15 Cm",
                 "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/df.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/df-800x539.jpg",
+                "alt": "",
+                "caption": "Analoog 10x15 Cm",
+                "active": true
               }
             ]
           },
@@ -802,7 +813,7 @@
             "fullWidth": false,
             "spacing": "6",
             "paddingTop": "4",
-            "paddingBottom": "1",
+            "paddingBottom": "0",
             "filterBgColor": false,
             "bgColor": "#000000",
             "showText": true,
@@ -905,6 +916,39 @@
                 "thumb": "@PROJECT_PATH@/assets/images/43-2-751x1152.jpg",
                 "alt": "",
                 "caption": "Analoog 10x15 Cm",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/7.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/7-800x528.jpg",
+                "alt": "",
+                "caption": "Analoog 10x15 Cm",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/hhhh.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/hhhh-800x521.jpg",
+                "alt": "",
+                "caption": "Analoog 10x15 Cm",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/untitled-32.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/untitled-32-800x1163.jpg",
+                "alt": "",
+                "caption": "Analoog 10x15 Cm",
                 "active": true
               }
             ]
@@ -1005,7 +1049,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/27-anaaloog-2-738x1121.jpg",
                 "alt": "",
                 "caption": "Analoog 10x15 Cm",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Responsive",
@@ -1017,6 +1061,28 @@
                 "alt": "",
                 "caption": "Analoog 10x15 Cm&nbsp;<br>",
                 "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/untitled-34.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/untitled-34-800x1208.jpg",
+                "alt": "",
+                "caption": "Analoog 10x15 Cm",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/sdjghh.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sdjghh-799x539.jpg",
+                "alt": "",
+                "caption": "Analoog 10x15 Cm",
+                "active": true
               }
             ]
           },
@@ -1496,7 +1562,7 @@
                 "image": "@PROJECT_PATH@/assets/images/analoog-mama-.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/analoog-mama-682x1022.jpg",
                 "alt": "",
-                "caption": "",
+                "caption": "Analoog 10x15 Cm",
                 "active": false
               },
               {
@@ -1507,7 +1573,29 @@
                 "image": "@PROJECT_PATH@/assets/images/23-analoog-2.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/23-analoog-2-722x1110.jpg",
                 "alt": "",
-                "caption": "",
+                "caption": "Analoog 10x15 Cm",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/q1.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/q1-800x1224.jpg",
+                "alt": "",
+                "caption": "Analoog 10x15 Cm",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/rosie-1-.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/rosie-1-800x1220.jpg",
+                "alt": "",
+                "caption": "Analoog 10x15 Cm",
                 "active": true
               }
             ]
