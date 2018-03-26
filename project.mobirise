@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "ESTHERWILLE",
-    "currentPage": "page5.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -237,7 +237,7 @@
           },
           "title": "",
           "text": "Found footage.<br>Famillie geschiedenis.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Project<br></a> ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://estherwille.github.io/online/page5.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Project<br></a> ",
           "_tags": [
             "Theme"
           ],
