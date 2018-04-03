@@ -812,3 +812,15 @@ h6,
 #menu-3l .dropdown-item[aria-expanded="true"] {
   color: #ffffff!important;
 }
+#features1-3u .striped .mbr-cards-col:nth-child(2n+1) {
+  background-color: #ffffff;
+}
+#features1-3u .mbr-cards-col:nth-child(odd) .card-subtitle {
+  color: #5b5b5b;
+}
+#features1-3u .mbr-cards-col:nth-child(odd) .card-title {
+  color: #000000;
+}
+#features1-3u .mbr-cards-col:nth-child(odd) .card-text {
+  color: #000000;
+}

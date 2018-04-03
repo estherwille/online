@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "ESTHERWILLE",
-    "currentPage": "index.html",
+    "currentPage": "page5.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -26,11 +26,12 @@
         "#1f2322",
         "#232323",
         "#1e1ccc",
-        "#9ba4a3"
+        "#9ba4a3",
+        "#5b5b5b"
       ]
     },
     "versionFirst": "4.3.2",
-    "uniqCompNum": 137,
+    "uniqCompNum": 139,
     "versionPublish": "4.3.2",
     "favicon": "@PROJECT_PATH@/assets/images/24-anaaloog-.jpg",
     "noImageResize": "true",
@@ -2117,7 +2118,7 @@
             "overlayOpacity": 0.5
           },
           "title": "Found foutage",
-          "text": "Famillie geschiedenis.<br>16 mm beelden &amp; S-VHS beelden (screenshots)",
+          "text": "Famillie geschiedenis.<br>8 &nbsp;mm beelden &amp; S-VHS beelden (screenshots)",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
           "_tags": [
             "Theme"
@@ -2314,10 +2315,10 @@
           },
           "title1": "L'artiste",
           "subtitle1": "France",
-          "caption1": "16 mm beeld.",
+          "caption1": "8 mm beeld.",
           "title2": "L'artiste",
           "subtitle2": "France&nbsp;",
-          "caption2": "16 mm beeld.",
+          "caption2": "8 mm beeld.",
           "title3": "Web Fonts",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
@@ -2562,6 +2563,131 @@
             "showTitles": true,
             "showSubtitles": true,
             "ShowTexts": true,
+            "showButtons": false,
+            "columnsColor": "#ffffff",
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "columns": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/15.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/14.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/16.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "Barbara",
+          "subtitle1": "Savoie 1994",
+          "caption1": "8 MM film<br>Zingend op een zwoele zomeravond. <br><br>",
+          "title2": "Barbara",
+          "subtitle2": "Savoie 1994",
+          "caption2": "8 MM film <br>Zingend op een zwoel zomeravond.<br><br>",
+          "title3": "Barbara",
+          "subtitle3": "Savoie 1994",
+          "caption3": "8 MM film<br>Zingend op een zwoele zomeravond.<br><br>",
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_anchor": "features1-3u",
+          "_styles": {
+            ".striped .mbr-cards-col:nth-child(2n+1)": {
+              "background-color": "#ffffff"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-subtitle": {
+              "color": "#5b5b5b"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-title": {
+              "color": "#000000"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-text": {
+              "color": "#000000"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
             "showButtons": true,
             "paddingTop": 2,
             "paddingBottom": 2,
@@ -2592,10 +2718,13 @@
           },
           "media2": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
+              "src": "@PROJECT_PATH@/assets/images/17.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
             }
           },
           "media3": {
@@ -2632,10 +2761,10 @@
           },
           "title1": "De zee&nbsp;",
           "subtitle1": "daguitstap",
-          "caption1": "16 mm gefilmd door Eddy De boeck <br>Herinering aan een dagje aan zee met zijn vrouw en Twee dochters. <br><br>.",
-          "title2": "Responsive",
-          "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "caption1": "8 mm gefilmd door Eddy De boeck <br>Herinering aan een dagje aan zee met zijn vrouw en Twee dochters. <br><br>.",
+          "title2": "La Piscine",
+          "subtitle2": "vakantie",
+          "caption2": "8 mm gefilmd door Eddy De Boeck.<br>Barbara De Boeck en Valerie De Boeck <br>samen in het zwembad in frankrijk in de vrije natuur.",
           "title3": "Web Fonts",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
